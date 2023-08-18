@@ -11,3 +11,7 @@ body {
   text-align: center;
   padding: 3rem 0;
 }
+
+hr{
+  width: 90%;
+}

@@ -1,9 +1,10 @@
+import { Header } from "./shared/Header";
+
 const App = () => {
   return (
     <div className="container">
-      <p>
-        Write your code here.
-      </p>
+        <Header />
+        <hr/>
     </div>
   );
 }

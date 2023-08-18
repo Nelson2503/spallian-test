@@ -1,0 +1,25 @@
+header{
+    display: flex;
+    width: 100%;
+}
+
+.meteo_title{
+    display: flex;
+}
+
+.first_title{
+    font-size: 3em;
+    margin-left: 10px;
+    margin-right: 10px;        
+}
+
+.cloud_title{
+    height: 75px;
+    margin-top: 25px;    
+    margin-left: 25px;
+}
+
+.sun_title{
+    height: 60px;
+    margin-top: 35px;
+}

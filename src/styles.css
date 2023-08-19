@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("./images/pokeball.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 
 .container {
@@ -14,4 +18,5 @@ body {
 
 hr{
   width: 90%;
+  margin-bottom: 100px;
 }
